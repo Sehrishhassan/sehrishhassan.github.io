@@ -1,0 +1,1 @@
+[Sun Oct 22 2017 21:40:31 GMT-0500 (Central Daylight Time)] layer "white_box.jpg copy": Expected end of input but "c" found.

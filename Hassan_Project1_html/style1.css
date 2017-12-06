@@ -1,0 +1,541 @@
+@charset "UTF-8";
+.lasagna_jpg {
+  background-image: url("Parmigianos Full-assets/lasagna.jpg");
+  position: absolute;
+  left: 90px;
+  top: 1504px;
+  width: 300px;
+  height: 201px;
+  z-index: 38;
+}
+.salami_sandwich_jpg {
+  background-image: url("Parmigianos Full-assets/salami_sandwich.jpg");
+  position: absolute;
+  left: 810px;
+  top: 911px;
+  width: 300px;
+  height: 201px;
+  z-index: 39;
+}
+.farfale_jpg {
+  background-image: url("Parmigianos Full-assets/farfale.jpg");
+  position: absolute;
+  left: 93px;
+  top: 1204px;
+  width: 300px;
+  height: 201px;
+  z-index: 42;
+}
+.meat_sauce_jpg {
+  background-image: url("Parmigianos Full-assets/meat_sauce.jpg");
+  position: absolute;
+  left: 456px;
+  top: 914px;
+  width: 300px;
+  height: 201px;
+  z-index: 45;
+}
+.chicken_feta_jpg {
+  background-image: url("Parmigianos Full-assets/chicken_feta.jpg");
+  position: absolute;
+  left: 456px;
+  top: 1205px;
+  width: 300px;
+  height: 201px;
+  z-index: 46;
+}
+.pizza_bite_jpg {
+  background-image: url("Parmigianos Full-assets/pizza_bite.jpg");
+  position: absolute;
+  left: 456px;
+  top: 1502px;
+  width: 300px;
+  height: 201px;
+  z-index: 48;
+}
+.Artisan_pizza_jpg {
+  background-image: url("Parmigianos Full-assets/Artisan_pizza.jpg");
+  position: absolute;
+  left: 90px;
+  top: 914px;
+  width: 300px;
+  height: 201px;
+  z-index: 50;
+}
+.classic_salad__jpg {
+  background-image: url("Parmigianos Full-assets/classic_salad .jpg");
+  position: absolute;
+  left: 808px;
+  top: 1204px;
+  width: 300px;
+  height: 201px;
+  z-index: 52;
+}
+.pan_pizza_jpg {
+  background-image: url("Parmigianos Full-assets/pan_pizza.jpg");
+  position: absolute;
+  left: 808px;
+  top: 1504px;
+  width: 300px;
+  height: 201px;
+  z-index: 54;
+}
+.header_menu_page_jpg {
+  background-image: url("Parmigianos Full-assets/header_menu_page.jpg");
+  position: absolute;
+  left: -23px;
+  top: 225px;
+  width: 1224px;
+  height: 547px;
+  z-index: 31;
+  background-repeat: no-repeat;
+}
+
+.about_us_jpg {
+  background-image: url("Parmigianos Full-assets/about_us.jpg");
+  position: absolute;
+  left: 0px;
+  top: 225px;
+  width: 1201px;
+  height: 786px;
+  z-index: 80;
+}
+
+.detail_order_png {
+  background-image: url("Parmigianos Detail-assets/detail_order.png");
+  position: absolute;
+  left: -96px;
+  top: 205px;
+  width: 966px;
+  height: 672px;
+  z-index: 67;
+  background-repeat: no-repeat;
+}
+
+.Rounded_rectangle_png {
+  background-color: rgb(255, 62, 51);
+  position: absolute;
+  left: 945px;
+  top: 732px;
+  width: 171px;
+  height: 47px;
+  z-index: 72;
+  border-radius: 50px;
+  font-family: "Rockwell";
+  color: white;
+  font-size: 100%;
+  line-height: .9;
+  text-align: center;
+}
+.Home_image_jpg {
+  background-image: url("Parmigianos Home-assets/Home_image.jpg");
+  position: absolute;
+  left: 0px;
+  top: 225px;
+  width: 1212px;
+  height: 808px;
+  z-index: 22;
+  background-repeat: no-repeat;
+}
+
+.red_rect_box_jpg {
+  background-color: rgb(110, 0, 0);
+  opacity: 0.478;
+  position: absolute;
+  left: 98px;
+  top: 585px;
+  width: 997px;
+  height: 206px;
+  z-index: 26;
+
+}
+.white_box_jpg {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: -2px;
+  top: -1px;
+  width: 1199px;
+  height: 493px;
+  z-index: 18;
+}
+.icons_jpg {
+  background-image: url("Parmigianos Full-assets/icons.jpg");
+  position: absolute;
+  left: 560px;
+  top: 1886px;
+  width: 145px;
+  height: 44px;
+  z-index: 95;
+}
+
+.Rectangle_4_jpg {
+  background-color: rgb(220, 31, 38);
+  opacity: 0.588;
+  position: absolute;
+  left: 233px;
+  top: 1054px;
+  width: 697px;
+  height: 422px;
+  z-index: 85;
+}
+
+.location_image_jpg {
+  background-image: url("Parmigianos About Us-assets/location_image.jpg");
+  position: absolute;
+  left: 263px;
+  top: 1078px;
+  width: 366px;
+  height: 366px;
+  z-index: 91;
+}
+
+
+.footer {
+  background-color: rgb(220, 31, 38);
+  position: absolute;
+  left: -2px;
+  width: 1202px;
+  height: 194px;
+  z-index: 96;
+}
+
+.menuFooter {
+  top: 1806px;
+}
+
+.aboutUsFooter {
+	top: 1520px;
+}
+
+.detailFooter {
+	top: 900px;
+}
+
+.HomeFooter {
+	top: 879px;
+}
+
+.Parmagianos_has_been_a_staple_of_Brooklyn_since {
+  font-size: 16px;
+  font-family: "MRockwell";
+	color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 289.937px;
+  top: 561.946px;
+	z-index: 82;
+	
+}
+.about_us_jpg {
+  background-image: url("Parmigianos Full-assets/about_us.jpg");
+  position: absolute;
+  left: 0px;
+  top: 225px;
+  width: 1201px;
+  height: 786px;
+  z-index: 79;
+}
+
+.new_logo_png {
+  background-image: url("Parmigianos Full-assets/new_logo.png");
+  position: absolute;
+  left: 20px;
+  top: 61px;
+  width: 270px;
+  height: 91px;
+  z-index: 106;
+}
+.Rectangle_png {
+  background-color: rgba(220, 31, 38, 0.588);
+  position: absolute;
+  left: 233px;
+  top: 468px;
+  width: 697px;
+  height: 270px;
+  z-index: 81;
+}
+
+.AboutUsText {
+	margin-left: 90px;
+	margin-right: 90px;
+	margin-top: 10px;
+	opacity: 1;
+	font-family: "Rockwell";
+
+}
+
+.location_text_box {
+	position: absolute;
+	left: 663px;
+	width: 250px;
+	height: 300px;
+  	top: 1078px;
+	z-index: 91;
+	
+}
+
+.section_header_text {
+	font-family: "Rockwell";
+	text-align: center;
+	margin-top: 40px;
+}
+
+.section_subheader_text{
+  font-family: "Rockwell";
+}
+
+.location_text{
+  font-family: "Rockwell";
+  font-size: 90%;
+}
+
+.social_media_icons {
+  background-image: url("Parmigianos Full-assets/social_media_icons.png");
+  position: relative;
+  left: 540px;
+  top: 60px;
+  width: 145px;
+  height: 44px;
+  z-index: 97;
+}
+
+.footer_text {
+  background-image: url("Parmigianos Full-assets/footer_text.png");
+  position: relative;
+  left: 288px;
+  top: 30px;
+  width: 642px;
+  height: 19px;
+  z-index: 98;
+}
+
+.All_Right_Reserved_png {
+  background-image: url("Parmigianos Full-assets/All Right Reserved.png");
+  position: relative;
+  left: 445px;
+  top: 95px;
+  width: 322px;
+  height: 18px;
+  z-index: 99;
+}
+
+.Register_Login_png {
+  background-image: url("Parmigianos Full-assets/RegisterLogin.png");
+  position: absolute;
+  left: 1005px;
+  top: 73px;
+  width: 125px;
+  height: 18px;
+  z-index: 100;
+}
+
+.navigation {
+  font-size: 30px;
+  font-family: Helvetica, ' sans-serif';
+  color: rgb(0, 0, 0);
+  line-height: 1.6;
+  text-align: center;
+  position: absolute;
+  left: 330px;
+  top: 160px;
+  width: 800px;
+  height: 50px;
+  z-index: 125;
+}
+
+.navigation_text
+{
+	float:left;
+	padding-right: 80px;
+	font-size: 80%;
+	text-decoration: none;
+	color: black;
+}
+
+.Menu_png {
+  background-image: url("Parmigianos Menu-assets/Menu.png");
+  position: absolute;
+  left: 539px;
+  top: 800px;
+  width: 135px;
+  height: 34px;
+  z-index: 30;
+}
+.menuNavigation_png {
+  background-image: url("Parmigianos Menu-assets/menuNavigation.png");
+  position: absolute;
+  left: 227px;
+  top: 860px;
+  width: 747px;
+  height: 22px;
+  z-index: 32;
+}
+
+.Pan_Pizza_png {
+  background-image: url("Parmigianos Menu-assets/Pan Pizza.png");
+  position: absolute;
+  left: 921px;
+  top: 1721px;
+  width: 86px;
+  height: 13px;
+  z-index: 52;
+}
+
+.Classic_Salad_png {
+  background-image: url("Parmigianos Menu-assets/Classic Salad.png");
+  position: absolute;
+  left: 900px;
+  top: 1428px;
+  width: 118px;
+  height: 14px;
+  z-index: 50;
+}
+
+.Artisan_Pizza_png {
+  background-image: url("Parmigianos Menu-assets/Artisan Pizza.png");
+  position: absolute;
+  left: 189px;
+  top: 1130px;
+  width: 116px;
+  height: 13px;
+  z-index: 48;
+}
+
+.Pizza_Bites_png {
+  background-image: url("Parmigianos Menu-assets/Pizza Bites.png");
+  position: absolute;
+  left: 555px;
+  top: 1716px;
+  width: 97px;
+  height: 13px;
+  z-index: 46;
+}
+
+.Chicken_Feta_Salad_png {
+  background-image: url("Parmigianos Menu-assets/Chicken Feta Salad.png");
+  position: absolute;
+  left: 518px;
+  top: 1423px;
+  width: 170px;
+  height: 14px;
+  z-index: 44;
+}
+
+.Salami_Sandwich_png {
+  background-image: url("Parmigianos Menu-assets/Salami_Sandwich.png");
+  position: absolute;
+  left: 887px;
+  top: 1132px;
+  width: 150px;
+  height: 14px;
+  z-index: 41;
+}
+
+.Farfalle_Salad_png {
+  background-image: url("Parmigianos Menu-assets/Farfalle_Salad.png");
+  position: absolute;
+  left: 184px;
+  top: 1427px;
+  width: 122px;
+  height: 13px;
+  z-index: 40;
+}
+
+.Lasagna_png {
+  background-image: url("Parmigianos Menu-assets/Lasagna.png");
+  position: absolute;
+  left: 203px;
+  top: 1720px;
+  width: 75px;
+  height: 17px;
+  z-index: 38;
+}
+
+.Meat_Sauce_Pasta_png {
+  background-image: url("Parmigianos Menu-assets/Meat_Sauce Pasta.png");
+  position: absolute;
+  left: 539px;
+  top: 1130px;
+  width: 155px;
+  height: 14px;
+  z-index: 37;
+}
+
+.Artisan_Pizza {
+  font-size: 30px;
+  font-family: "Rockwell";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 931.878px;
+  top: 170px;
+  z-index: 68;
+}
+
+.details_text {
+  font-size: 18px;
+  font-family: "Rockwell";
+  color: rgb(0, 0, 0);
+  text-align: left;
+  position: absolute;
+  left: 820px;
+  top: 230px;
+  width: 380px;
+  max-width: 500px;
+  z-index: 69;
+}
+
+.toppings {
+  font-size: 12px;
+  font-family: "Rockwell";
+  color: rgb(0, 0, 0);
+  line-height: .4;
+  text-align: left;
+  position: absolute;
+  left: 860px;
+  top: 528.654px;
+  z-index: 74;
+}
+
+.toppingsHeader {
+  font-size: 14px;
+  font-family: "Rockwell";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 855px;
+  top: 500px;
+  z-index: 73;
+}
+
+.pizzaSizeText {
+  font-size: 14px;
+  font-family: "Rockwell";
+  color: rgb(1, 0, 0);
+  line-height: .4;
+  text-align: left;
+  position: absolute;
+  left: 855px;
+  top: 426.144px;
+  z-index: 72;
+}
+
+.homeText {
+  font-size: 60px;
+  font-family: "Lucida Grande";
+  color: rgb(255, 255, 255);
+  line-height: .2;
+  text-align: center;
+  position: absolute;
+  left: 176px;
+  top: 590px;
+  z-index: 90;
+}
+
+
+
+
